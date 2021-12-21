@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Martinchurlis
-- 👀 Estoy interesado en aprender AI y machine learning
-- 🌱 Actualmente estoy aprendiendo python3
+- 👀 Estoy interesado en aprender AI, machine learning y ciencia de datos.
+- 🌱 Actualmente estoy aprendiendo python y jupyter 
 - 📫 How to reach me @martinchurlis on instagram 
 
 <!---
